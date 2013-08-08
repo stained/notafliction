@@ -5,7 +5,7 @@
 //  Copyright (c) 2013 HackerShack. All rights reserved.
 //
 
-#import "NSNotificationCenter+NotaflictionMonitor.m"
+#import "NSNotificationCenter+NotaflictionMonitor.h"
 #import <objc/runtime.h>
 #import <objc/message.h>
 
